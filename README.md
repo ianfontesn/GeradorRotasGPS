@@ -1,4 +1,5 @@
 ## Gerador de rotas em realidade aumentada utilizando geolocalização.
+### ATENÇÃO: É UM TESTE DE TECNOLOGIA, ENTÃO NÃO CONSIDERE MUITO A ORGANIZAÇÃO. UTILIZE PARA FINS DE ESTUDO.
 
 ### Como funciona:
 Como é um protótipo, as rotas e áreas de intrusão precisam estar pré alocadas na Unity, no momento da build.
