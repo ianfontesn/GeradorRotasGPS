@@ -222,7 +222,7 @@ MonoBehaviour:
   kmlIntrusionArea:
   - {fileID: 4900000, guid: 1480585ed3e29ce4b925ce542ef6302c, type: 3}
   arrowRoutePrefab: {fileID: 8975149543819061783, guid: ac271cddae2021f45a68ffb8097a6996, type: 3}
-  lastPointPrefab: {fileID: 4604834292529069299, guid: 8ecf7dae858cf214b8795537c2905b52, type: 3}
+  lastPointPrefab: {fileID: 1843960288547926375, guid: c6a287b03327a794993d13b867285728, type: 3}
   fineAltitudeAdjust: {fileID: 1634279027}
   btnGerarObjetos: {fileID: 1908210602}
   tmpInformativo: {fileID: 59420808}
