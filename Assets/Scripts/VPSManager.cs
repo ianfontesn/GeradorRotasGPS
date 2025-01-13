@@ -16,7 +16,7 @@ public class VPSManager : MonoBehaviour
     [SerializeField] private LookAtTarget arrowLookAtTarget;
     [SerializeField] private Camera ARCamera;
     [SerializeField] private List<TextAsset> kmlRoutes;
-    [SerializeField] private List<TextAsset> kmlFloodSpots;
+    [SerializeField] private List<TextAsset> kmlIntrusionArea;
     [SerializeField] private GameObject arrowRoutePrefab;
     [SerializeField] private GameObject lastPointPrefab;
     [SerializeField] private TMP_InputField fineAltitudeAdjust; //meters
@@ -87,7 +87,7 @@ public class VPSManager : MonoBehaviour
     {
         debugger = FindObjectOfType<OnScreenDebugger>();
         geospatialRoutes = CoordinateConverter(kmlRoutes);
-        floodSpots = CoordinateConverter(kmlFloodSpots);
+        floodSpots = CoordinateConverter(kmlIntrusionArea);
     }
 
     private void Start()
