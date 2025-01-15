@@ -3,7 +3,7 @@
 
 ### Como funciona:
 Como é um protótipo, as rotas e áreas de intrusão precisam estar pré alocadas na Unity, no momento da build.
-Ao iniciar a aplicação com as rotas, o script irá verificar e validar se o dispositivo possui supoerte a VPS (Indispensavel).
+Ao iniciar a aplicação com as rotas, o script irá verificar e validar se o dispositivo possui suporte a VPS (Indispensavel).
 Caso afirmativo, irá tentar acessar a localização do GPS que precisa estar ligado.
 A rota será plotada em realidade aumentada na tela, no protótipo, uma seta para cada ponto escolhido.
 O usuário então poderá seguir a rota plotada em realidade aumentada sendo orientado por geolocalização.
